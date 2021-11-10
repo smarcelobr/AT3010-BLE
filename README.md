@@ -8,9 +8,10 @@ Informações para acessar os dados provenientes desse medidor de consumo via bl
 
 O protocolo aparentemente é esse: https://github.com/NiceLabs/atorch-console/blob/master/docs/protocol-design.md
 
-## Raspberry (Serial connection)
+## Raspberry (Bluetooth BLE & Serial connection)
 
-verificar: https://raspberry-projects.com/pi/pi-operating-systems/raspbian/bluetooth/serial-over-bluetooth
+criar um device: https://raspberry-projects.com/pi/pi-operating-systems/raspbian/bluetooth/serial-over-bluetooth (ainda não consegui fazer funcionar)
+comandos:  https://raspberry-projects.com/pi/pi-operating-systems/raspbian/bluetooth/bluetooth-commands
 
 ## Python
 
